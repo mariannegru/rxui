@@ -1,0 +1,6 @@
+[submodule "libs/rxcpp"]
+	path = libs/rxcpp
+	url = https://github.com/Reactive-Extensions/RxCpp.git
+[submodule "libs/cpprestsdk"]
+	path = libs/cpprestsdk
+	url = https://github.com/Microsoft/cpprestsdk.git
